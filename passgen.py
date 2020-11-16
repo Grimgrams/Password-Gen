@@ -1,4 +1,3 @@
-#there are two ways to execute the script 1 use an ide or if you are on unix use the python3 {filename} command in the terminal.
 import random
 
 uppercase_letters = "ABCDEFGHIKJLMNOPQRSTUVWXYZ"
