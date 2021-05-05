@@ -29,4 +29,4 @@ amount = 10
 
 for x in range(amount):
 	password = "".join(random.sample(all, length))
-	print(password)
+	print("\033[1;33;40m" + password)
